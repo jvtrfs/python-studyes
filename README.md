@@ -1,0 +1,2 @@
+# python-studyes
+python excercises
