@@ -5,4 +5,5 @@ print('Sua parede tem a dimensao de {}x{} e a area e de {} '.format(larg, alt, a
 print('Sua parede tem a dimensao de {}x{} e a area e de {}m² '.format(larg, alt, area))
 tinta = area / 2
 print = ('A quantidade de tinta necessaria e {}'.format (tinta))
+print('A quantidade de tinta necessaria para pintar sua parede e de {}L'.format(tinta))
 
