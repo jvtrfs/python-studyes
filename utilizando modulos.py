@@ -25,9 +25,8 @@ from math import sqrt as raizquadrada
 #agora ao inves de usar sqrt(4), eu uso raizquadrada(4)
 
 #obviamente, no exemplo ficou foi mais extenso o apelido, mas é so pra demonstrar, vc poderia chamar ele de "r" no caso e vai funcionar igualmente.
-
+                                #agora ao inves de usar sqrt(4), eu uso raizquadrada(4)
+                                #obviamente, no exemplo ficou foi mais extenso o apelido, mas é so pra demonstrar, vc poderia chamar ele de "r" no caso e vai funcionar igualmente.
 #from math import sqrt as r
-
 #r(4)
-
 #pronto! isso retorna = 2, pois a raiz quadrada de 4 é 2.
