@@ -21,10 +21,6 @@ print('a raiz quadrada de {} e igual a {:.2f}'.format(num, raiz))
 #utilizando "as" vc pode dar apelido a alguma função da biblioteca. Vejamos com o sqrt:
 
 from math import sqrt as raizquadrada
-
-#agora ao inves de usar sqrt(4), eu uso raizquadrada(4)
-
-#obviamente, no exemplo ficou foi mais extenso o apelido, mas é so pra demonstrar, vc poderia chamar ele de "r" no caso e vai funcionar igualmente.
                                 #agora ao inves de usar sqrt(4), eu uso raizquadrada(4)
                                 #obviamente, no exemplo ficou foi mais extenso o apelido, mas é so pra demonstrar, vc poderia chamar ele de "r" no caso e vai funcionar igualmente.
 #from math import sqrt as r
