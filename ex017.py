@@ -8,4 +8,5 @@ print('a hipotenusa mede {:.2f}'.format(hi))'''
 
 from math import hypot
 ca = float(input('qual o tamanho do cateto oposto: '))
+co = float(input('qual o tamanho do cateto adjacente: '))
 # importando a hypot em math, o codigo fica mais limpo e bonito
