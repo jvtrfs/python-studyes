@@ -1,4 +1,3 @@
-n3 = str(input('digite o nome do terceiro aluno: '))
 n4 = str(input('digite o nome do quarto aluno: '))
 lista = [n1, n2, n3, n4]
 escolhido = random.choice(lista)
