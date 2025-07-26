@@ -12,3 +12,4 @@
 
 #exemplo abaixo de fatiacao de string
 frase = ('curso em video teste')
+print(frase[1:5:2])
