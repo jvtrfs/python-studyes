@@ -10,4 +10,4 @@
 
 # temos varias funcoes de analise, transformacao e etc
 
-# 
+#exemplo abaixo de fatiacao de string
