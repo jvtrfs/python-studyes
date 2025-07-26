@@ -3,3 +3,4 @@ print('analisando seu nome...')
 print('seu nome em mauisculas e: {} '.format(nome.upper()))
 print('seu nome em minusculas e: {}'.format(nome.lower()))
 # print('seu nome ao todoo tem: {} letras'.format(len(nome))) # conta como 10 letras por causa do espaco
+print('seu nome ao todoo tem: {} letras'.format(len(nome) - nome.count(' '))) # a funcao nome.count elimina os espacos do meio do nome, assim fica basicamente (nome com espacos) MENOS (nome sem espacos)
