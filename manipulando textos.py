@@ -8,3 +8,6 @@
 
 # FUNCAO/METODO len(frase) basicamente significa comprimento, se pedir o len da frase, esta perguntando o cumprimento da frase (em caracteres)
 
+# temos varias funcoes de analise, transformacao e etc
+
+# 
