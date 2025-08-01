@@ -1,6 +1,7 @@
 # programa do guanabara
 n = str(input('Digite seu nome: '))
 nome = n.split()
+print('muito prazer em te conhecer')
 
 
 
