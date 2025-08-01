@@ -1,4 +1,5 @@
 # programa do guanabara
+n = str(input('Digite seu nome: '))
 
 
 
