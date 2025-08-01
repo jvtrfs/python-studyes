@@ -2,6 +2,7 @@
 n = str(input('Digite seu nome: '))
 nome = n.split()
 print('muito prazer em te conhecer')
+print('seu primeiro nome e {}'.format(nome[0]))
 
 
 
