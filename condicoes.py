@@ -4,3 +4,4 @@
  # if nome == 'joao':
    # print('ola joao, tudo bem com voce?')
 # else:
+   # print('oi {}, tudo bem com voce?'.format(nome))
