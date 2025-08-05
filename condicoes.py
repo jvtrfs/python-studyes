@@ -13,3 +13,4 @@ m = (n1 + n2) / 2
 print('a media foi {:.1f}'.format(m))
 if m >= 7:
     print('parabens, voce esta acima da media!')
+else:
