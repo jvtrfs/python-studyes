@@ -6,3 +6,4 @@
 # else:
    # print('oi {}, tudo bem com voce?'.format(nome))
   #  print('muito bom ter voce aqui novamente ')
+# exemplo de condicao composta
