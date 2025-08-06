@@ -7,3 +7,4 @@ print('-=-' * 25)
 jogador = int(input('em qual numero eu pensei? '))
 print('aguarde um momento...')
 sleep(2)
+if jogador == computador:
