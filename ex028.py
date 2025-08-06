@@ -9,3 +9,4 @@ print('aguarde um momento...')
 sleep(2)
 if jogador == computador:
     print('Parabens, voce me venceu! :)')
+else:
