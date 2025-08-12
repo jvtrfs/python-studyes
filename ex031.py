@@ -1,6 +1,7 @@
-numero = int(input('me diga um numero qualquer: '))
-resultado = numero % 2
-if resultado == 0:
-    print('o numero {} e PAR'.format(numero))
+distancia = float(input('qual a distancia da sua viagem? '))
+print ('voce esta prestes a comecar uma viagem de {}Km'.format(distancia))
+if distancia <= 200:
+    preço = distancia * 0.50
 else:
-    print('o numero {} e IMPAR'.format(numero))
+    preço = distancia * 0.45
+print('e o preco da sua passagem e de R${:.2f}'.format(preço))
