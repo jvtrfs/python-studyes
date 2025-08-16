@@ -8,3 +8,4 @@ if n2 < n1 and n2 < n3:
 if n3 < n1 and n3 < n2:
     menor = n3
 # verificando quem e o maior
+maior = n1
