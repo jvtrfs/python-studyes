@@ -5,3 +5,4 @@ n3 = int(input('digite um numero: '))
 menor = n1
 if n2 < n1 and n2 < n3:
     menor = n2
+if n3 < n1 and n3 < n2:
